@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Aaron's GitHub stats](https://github-readme-stats-taupe-omega-64.vercel.app/api?username=aolson28)](https://github.com/aolson28/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-taupe-omega-64.vercel.app/api?username=aolson28&layout=donut)](https://github.com/aolson28/github-readme-stats)
+[![Top Langs](https://github-readme-stats-taupe-omega-64.vercel.app/api/top-langs/?username=aolson28&layout=donut)](https://github.com/aolson28/github-readme-stats)
