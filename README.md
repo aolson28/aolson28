@@ -2,7 +2,9 @@
 
 My name is Aaron. I'm a web developer in Michigan.
 
-🌱 I’m currently learning JavaScript, C#, SQL, and Python. I've been building apps using Power Automate, analyzing data in Power BI, and more for the last few years
+🌱 I’m currently learning JavaScript, C#, SQL, and Go. I've been building apps using Power Automate, analyzing data in Power BI, and more for the last few years
+
+🔭 I’m currently starting to work on a platform for small municipalities to manage documents, meetings, internal communications, etc.
 
 [![Top Langs](https://github-readme-stats-taupe-omega-64.vercel.app/api/top-langs/?username=aolson28&layout=donut)](https://github.com/aolson28/github-readme-stats)
 
